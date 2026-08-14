@@ -3,7 +3,7 @@
 A simple React project built with **React + Vite** to showcase premium cars using reusable components.
 
 ## 🚀 Live Demo
-https://shashikantmulimani076.github.io/my-first-react-project/# 
+https://shashikantmulimani076.github.io/my-first-react-project/
 
 ## 🛠️ Tech Stack
 - React
